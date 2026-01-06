@@ -9,7 +9,7 @@ app = FastAPI(
     desciption = "Prediction Water Potability"
 )
 
-with open("/home/binnewbs/ml_pipeline/model.pkl","rb") as f:
+with open("model.pkl","rb") as f:
     model = pickle.load(f)
 
 
