@@ -151,3 +151,4 @@ xgboost==1.7.6
 yarl==1.9.4
 ydata-profiling==4.5.1
 yfinance==0.2.9
+
